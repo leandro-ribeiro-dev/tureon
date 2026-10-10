@@ -9,7 +9,7 @@ import '../providers/about_providers.dart';
 class AboutView extends ConsumerWidget {
   const AboutView({super.key});
 
-  static const _repository = 'leodev062/tureon';
+  static const _repository = 'leandro-ribeiro-dev/tureon';
 
   @override
   Widget build(BuildContext context, WidgetRef ref) {
